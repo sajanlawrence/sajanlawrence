@@ -12,7 +12,7 @@ I'm Sajan Lawrence, a Pythonista. I spend most of my time learning new technolog
 - 🔭 I’m currently a student at Christ College of Engineering, Irinjalakuda.
 - Most used line of code `"python manage.py runserver"🐍`
 - 🤔 I’m seeking a position in a technical organization that can provide me with an opportunity to improve my skills and strengths in conjunction with the organizational goals and to attain excellence through experience.
-- 📫 How to reach me: sajanlawrence12345@gmail.com.\
+- 📫 How to reach me: sajanlawrence12345@gmail.com
 - 😇 You can find my resume here : [Sajan Lawrence]()
 
 
