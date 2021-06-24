@@ -13,7 +13,7 @@ I'm Sajan Lawrence, a Pythonista. I spend most of my time learning new technolog
 - Most used line of code `"python manage.py runserver"🐍`
 - 🤔 I’m seeking a position in a technical organization that can provide me with an opportunity to improve my skills and strengths in conjunction with the organizational goals and to attain excellence through experience.
 - 📫 How to reach me: sajanlawrence12345@gmail.com
-- 😇 You can find my resume here : [Sajan Lawrence]()
+- 😇 You can find my resume here : [Sajan Lawrence](https://github.com/sajanlawrence/sajanlawrence/blob/master/Sajan%20Lawrence.pdf)
 
 
 ## My Technology Stack and Tools
