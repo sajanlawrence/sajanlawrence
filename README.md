@@ -43,7 +43,7 @@ With a strong eye for detail and a user-first mindset, I focus on creating apps 
 
 ## 📱 Projects
 
-- **Crypto Insight** Crypto Insight is a modern, feature-rich iOS app that gives users a comprehensive and visually appealing way to explore the world of cryptocurrencies. It leverages real-time data from APIs to provide deep insights into coins, market trends, and technical details — all wrapped in a sleek interface that supports both dark and light modes.
+- **Crypto Insight** - Crypto Insight is a modern, feature-rich iOS app that gives users a comprehensive and visually appealing way to explore the world of cryptocurrencies. It leverages real-time data from APIs to provide deep insights into coins, market trends, and technical details — all wrapped in a sleek interface that supports both dark and light modes.
   _Swift + SwiftUI + MVVM_
 
 - **MapScene** – MapScene is a beautifully designed SwiftUI app that allows users to explore various destinations on an interactive map. Tap any location and view rich details including images, descriptions, and more.  
