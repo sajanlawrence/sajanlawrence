@@ -51,7 +51,7 @@ With a strong eye for detail and a user-first mindset, I focus on creating apps 
 - **MapScene** – MapScene is a beautifully designed SwiftUI app that allows users to explore various destinations on an interactive map. Tap any location and view rich details including images, descriptions, and more.  
   _Swift + SwiftUI + REST APIs + MVVM_
 
-- **ShellGame+** - A classic Shell Game built using SwiftUI, where three cups are shuffled once and the player must find the hidden ball using observation and logic.
+- **ShellGame** - A classic Shell Game built using SwiftUI, where three cups are shuffled once and the player must find the hidden ball using observation and logic.
   _Swift + SwiftUI + MVVM_
   
 - **Taskaroo** – Minimal To-Do App with SwiftUI, Animations, and Local Storage  
