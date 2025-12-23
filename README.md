@@ -60,7 +60,7 @@ With a strong eye for detail and a user-first mindset, I focus on creating apps 
 - **Stopwatch+** - A clean, functional stopwatch built entirely with SwiftUI and Combine, featuring lap tracking, precise timing, and a modern gradient-based UI. This app demonstrates how to build a real-time timer with MVVM architecture, without using Storyboards or Interface Builder.  
   _Swift + SwiftUI + MVVM_
   
-- **MatchMyFlag+** - MatchMyFlag is a simple but addictive memory-testing game. You are presented with 10 face-down cards. Behind each card is a country flag. Tap two cards at a time — if the flags match, they stay open. If they don’t, they flip back automatically. Your goal is to find all matching pairs using the fewest moves possible.
+- **MatchMyFlag** - MatchMyFlag is a simple but addictive memory-testing game. You are presented with 10 face-down cards. Behind each card is a country flag. Tap two cards at a time — if the flags match, they stay open. If they don’t, they flip back automatically. Your goal is to find all matching pairs using the fewest moves possible.
   _Swift + SwiftUI + MVVM_
 
 > *(More projects coming soon...)*
